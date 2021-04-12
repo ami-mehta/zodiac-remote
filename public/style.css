@@ -1,0 +1,21 @@
+html,
+body {
+  background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+  font-family: "Bungee Hairline", cursive;
+  font-size: 2em;
+}
+
+#horoscope {
+  color: black;
+  margin-bottom: 0.5em;
+}
+
+#mood {
+  color: black;
+  margin-bottom: 0.5em;
+}
+
+#color {
+  color: black;
+  margin-bottom: 0.5em;
+}
